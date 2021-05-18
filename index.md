@@ -1,4 +1,4 @@
-## 欢迎来到DS的个人主页
+## Welcome to the personal homepage of DS
 
 You can use the [editor on GitHub](https://github.com/yixiaosi520/ds.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
